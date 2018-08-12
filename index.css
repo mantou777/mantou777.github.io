@@ -19,7 +19,7 @@ display:inline;
 
 #portfolio{
     width:600px;
-    height:1150px;
+    height:auto;
     border: solid 1px black;
     padding:30px 20px;
     -webkit-border-radius:20px;
