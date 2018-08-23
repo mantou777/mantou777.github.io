@@ -145,6 +145,7 @@ iframe{
 #leftcolumn img:hover,#rightcolumn img:hover {
     position:relative;
     top:3px;
+    opacity:0.8;
     
 }
 
